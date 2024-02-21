@@ -2,7 +2,7 @@
 
 #Gereksininmler
 
-1- Yazılım dilinin belirlenmesi
+1- Yazılım dilinin belirlenmesi/ kullanılacak uygun kütüphaneinin belirlenmesi.
 
 2- Yazılım diline uygun veritabanı sistemi belirlenmesi
 
@@ -29,3 +29,9 @@
 4.11- Ürün satışı olan sayfada ürün aramak için search fonksiyonu olmalı
 
 5- Veri tabanının bağlanması ve çalışan fonksiyonların bunun üzerinden serve etmesi.
+
+6- Uygulamanın software testleri yapılsın yani farklı veriler girdin arama kısmına hata veriyor mu bug var mı gibi varsa burada errror handling yapılsn bug'lar çözülsün.
+
+7- Secure Coding Principles için Emin712 ile birlikte uygulama incelensin ve buradaki pratiklerin üzerinden geçelim eksikler varsa düzeltelim nedenlerini vs tartışalım.
+
+8- Projenin dökümantasyonun yapılması ve repo'nun eksileri vs varsa kapatılması ve proje'yi Linkedin üzerinden paylaşşş da namın yürüsüünnnnnnnn !!!1
