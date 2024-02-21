@@ -4,4 +4,28 @@
 
 1- Yazılım dilinin belirlenmesi
 
-2- 
+2- Yazılım diline uygun veritabanı sistemi belirlenmesi
+
+3- Site üzerinde olması gereken sayfalar 
+
+3.1- Main page (genel bir açıklama)
+
+3.2- Menü (uygulama üzerinde olacak temel diğer sayfalara ait bilgiler)
+
+3.3 - Buraya aklınıza gelen şeyleri ekleyip arttırın
+
+4- Bulunması zorunlu olan fonksiyonlar.
+
+4.1- Login
+4.2- Register
+4.3- Profile görüntüleme
+4.4- Profile  bilgilerini güncelleme
+4.5- Şifremi unuttum fonksiyonu
+4.6- Farklı user'ları Userıd değeri ya da isim soy isim ile arayıp bunları arkadaş ekleme
+4.7- Profile fotosu olsun bunu eklemek ama burada kısıtlar olsun sadece jpeg ve max boyut 10 mb gibi.
+4.8- Kart ve adres bilgilerini alıp kayıt edebileceğin fonksiyon olsun.
+4.9- Ürünler olsun bunları sepete ekleme olsun ve ödeme adımına gelince kayıtlı kartlarnı getirsin otomatik olarak bunları görebil burada.
+4.10- Fronted tasarımı yapılsın burada best practices varsa buna uygun şekilde kodlansın.
+4.11- Ürün satışı olan sayfada ürün aramak için search fonksiyonu olmalı
+
+5- Veri tabanının bağlanması ve çalışan fonksiyonların bunun üzerinden serve etmesi.
